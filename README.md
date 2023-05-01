@@ -2,7 +2,7 @@
 
 2 Different Machine Learning Models That take in a picture of a dog and returns the breed of a dog. 
 
-- Neural Netwrok
+- Neural Network
 - Decision Tree Classifier
 
 
